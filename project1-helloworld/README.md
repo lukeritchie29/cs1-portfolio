@@ -16,4 +16,12 @@
 - How to save and organize programming projects
 - How to upload a project to GitHub
 
+## Future Improvements
+- Ask the user for their name
+- Print a personalized greeting
+- Add comments
+
+## Author
+- Created by Luke Ritchie as part of my Computer Science 1 course-work
+
   
